@@ -8,13 +8,6 @@ Aplicativo CRUD para gerenciar uma coleção de livros, desenvolvido em **Next.j
 
 - **Nome:** Mateus Martins Porto
 
----
-
-## Link do Repositório
-
-[INSERIR LINK DO GITHUB AQUI]
-
----
 
 ## Prints da Aplicação
 

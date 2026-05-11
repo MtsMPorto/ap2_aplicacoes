@@ -19,13 +19,13 @@ Aplicativo CRUD para gerenciar uma coleção de livros, desenvolvido em **Next.j
 ## Prints da Aplicação
 
 ### 1. Listagem de Livros
-![Listagem de Livros](./prints/listagem.png)
+
 
 ### 2. Formulário de Cadastro
-![Formulário de Cadastro](./prints/formulario.png)
+
 
 ### 3. API/Banco de Dados
-![Banco de Dados Supabase](./prints/banco-dados.png)
+
 
 ---
 
@@ -200,7 +200,3 @@ npm run dev
 ```
 
 ---
-
-## Observações
-
-Este projeto foi desenvolvido como exercício prático de CRUD, adaptando o conceito original (Angular + json-server) para uma stack moderna (Next.js + Supabase), demonstrando que os princípios de CRUD são universais e podem ser aplicados em qualquer tecnologia.

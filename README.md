@@ -1,25 +1,4 @@
-# Biblioteca - Gerenciamento de Livros (CRUD)
-
-Aplicativo CRUD para gerenciar uma coleção de livros, desenvolvido em **Next.js** com **Supabase** como banco de dados.
-
----
-
-## Informações do Aluno
-
 - **Nome:** Mateus Martins Porto
-
-
-## Prints da Aplicação
-
-### 1. Listagem de Livros
-
-### 2. Formulário de Cadastro
-
-
-### 3. API/Banco de Dados
-
-
----
 
 ## Respostas das Questões
 

@@ -13,7 +13,6 @@ Aplicativo CRUD para gerenciar uma coleção de livros, desenvolvido em **Next.j
 
 ### 1. Listagem de Livros
 
-
 ### 2. Formulário de Cadastro
 
 
